@@ -18,8 +18,9 @@ Seoul National University
 | [CV](https://yongchanpark.github.io/resources/cv/cv.pdf) ]
 
 ## Research Interests
-- Time series analysis
 - Machine learning
+- Time series analysis
+- Tensor analysis
 
 
 # Publications
