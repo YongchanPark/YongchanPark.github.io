@@ -29,7 +29,6 @@ Seoul National University
 <u>Yong-chan Park</u>, Kisoo Kim, and U Kang   
 [**KDD 2025**](https://kdd2025.kdd.org/) 
 [ paper 
-| bibtex 
 | code ]
 
 - **Accurate Coupled Tensor Factorization with Knowledge Graph**   
