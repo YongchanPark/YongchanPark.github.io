@@ -86,6 +86,7 @@ Jaemin Yoo, Yejun Soun, <u>Yong-chan Park</u>, and U Kang
 
 # Professional Services 
 -----------------------
+- **NeurIPS 2025** (Reviewer)
 - **KDD 2025** (Reviewer)
 - **KDD 2024** (Reviewer)
 - **KDD 2022** (Reviewer)
