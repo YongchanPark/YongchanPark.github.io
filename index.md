@@ -22,6 +22,11 @@ Seoul National University
 - Time series analysis
 - Tensor analysis
 
+# Awards
+--------------
+- **KDD 2025 Student Travel Award**, 2025
+- **SNU BK21 Star Student Researcher Fellowship**, 2023
+  
 
 # Publications
 --------------
