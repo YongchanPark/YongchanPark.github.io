@@ -33,8 +33,9 @@ Seoul National University
 - **PuzzleTensor: A Method-Agnostic Data Transformation for Compact Tensor Factorization**   
 <u>Yong-chan Park</u>, Kisoo Kim, and U Kang   
 [**KDD 2025**](https://kdd2025.kdd.org/) 
-[ paper 
-| code ]
+[ [paper](https://yongchanpark.github.io/resources/2025/KDD/ParkKK25.pdf)
+| [bibtex](https://yongchanpark.github.io/resources/2025/KDD/ParkKK25.bib)  
+| [code](https://github.com/snudatalab/PuzzleTensor) ]
 
 - **Accurate Coupled Tensor Factorization with Knowledge Graph**   
 SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang   
