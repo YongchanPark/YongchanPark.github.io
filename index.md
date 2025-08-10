@@ -34,7 +34,7 @@ Seoul National University
 <u>Yong-chan Park</u>, Kisoo Kim, and U Kang   
 [**KDD 2025**](https://kdd2025.kdd.org/) 
 [ [paper](https://yongchanpark.github.io/resources/2025/KDD/ParkKK25.pdf)
-| [bibtex](https://yongchanpark.github.io/resources/2025/KDD/ParkKK25.bib)  
+| [bibtex](https://yongchanpark.github.io/resources/2025/KDD/ParkKK25.bib)
 | [code](https://github.com/snudatalab/PuzzleTensor) ]
 
 - **Accurate Coupled Tensor Factorization with Knowledge Graph**   
