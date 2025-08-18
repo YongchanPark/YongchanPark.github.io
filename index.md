@@ -30,6 +30,12 @@ Seoul National University
 
 # Publications
 --------------
+- **SwaGNER: Leveraging Span-aware Grid Transformers for Accurate Nested Named Entity Recognition**   
+SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang   
+[**CIKM 2025**](https://cikm2025.org/) 
+[ paper 
+| code ]
+
 - **PuzzleTensor: A Method-Agnostic Data Transformation for Compact Tensor Factorization**   
 <u>Yong-chan Park</u>, Kisoo Kim, and U Kang   
 [**KDD 2025**](https://kdd2025.kdd.org/) 
