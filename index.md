@@ -33,14 +33,13 @@ Seoul National University
 - **Offline and Online Coupled Tensor Factorization with Knowledge Graph**   
 SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang     
 [**PLOS ONE 2025**](https://journals.plos.org/plosone/) 
-[ paper 
-| code ]
+[ [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336100) 
+| [code](https://github.com/snudatalab/KG-CTF) ]
 
 - **SwaGNER: Leveraging Span-aware Grid Transformers for Accurate Nested Named Entity Recognition**   
 SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang   
 [**CIKM 2025**](https://cikm2025.org/) 
-[ paper 
-| code ]
+[ [paper](https://dl.acm.org/doi/10.1145/3746252.3761145) ]
 
 - **PuzzleTensor: A Method-Agnostic Data Transformation for Compact Tensor Factorization**   
 <u>Yong-chan Park</u>, Kisoo Kim, and U Kang   
