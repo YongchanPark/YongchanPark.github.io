@@ -46,7 +46,8 @@ SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang
 [**KDD 2025**](https://kdd2025.kdd.org/) 
 [ [paper](https://yongchanpark.github.io/resources/2025/KDD/ParkKK25.pdf)
 | [bibtex](https://yongchanpark.github.io/resources/2025/KDD/ParkKK25.bib)
-| [code](https://github.com/snudatalab/PuzzleTensor) ]
+| [code](https://github.com/snudatalab/PuzzleTensor)
+| [PPT](https://github.com/YongchanPark/YongchanPark.github.io/blob/gh-pages/resources/2025/KDD/PuzzleTensor.pdf) ]
 
 - **Accurate Coupled Tensor Factorization with Knowledge Graph**   
 SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang   
