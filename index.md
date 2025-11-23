@@ -30,6 +30,14 @@ Seoul National University
 
 # Publications
 --------------
+- **Fast and Accurate Online Coupled Matrix-Tensor Factorization via Frequency Regularization**   
+<u>Yong-chan Park</u>, SeungJoo Lee, and U Kang     
+[**KDD 2026**](https://kdd2026.kdd.org/) 
+[ paper
+| bibtex 
+| code
+| PPT ]
+
 - **Offline and Online Coupled Tensor Factorization with Knowledge Graph**   
 SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang     
 [**PLOS ONE 2025**](https://journals.plos.org/plosone/) 
