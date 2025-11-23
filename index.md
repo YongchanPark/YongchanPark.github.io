@@ -35,8 +35,7 @@ Seoul National University
 [**KDD 2026**](https://kdd2026.kdd.org/) 
 [ paper
 | bibtex 
-| code
-| PPT ]
+| code ]
 
 - **Offline and Online Coupled Tensor Factorization with Knowledge Graph**   
 SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang     
