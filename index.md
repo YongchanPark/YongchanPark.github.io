@@ -14,7 +14,7 @@ My research interests include machine learning and time series analysis.
 Computer Science and Engineering     
 Seoul National University
 - [ [Google Scholar](https://scholar.google.com/citations?user=UAaauqQAAAAJ) 
-| [DBLP](https://dblp.uni-trier.de/pid/274/1605.html) 
+| [DBLP](https://dblp.org/pid/274/1605.html) 
 | [CV](https://yongchanpark.github.io/resources/cv/CV.pdf) ]
 
 ## Research Interests
