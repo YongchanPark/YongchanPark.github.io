@@ -35,7 +35,7 @@ Seoul National University
 [**KDD 2026**](https://kdd2026.kdd.org/) 
 [ paper
 | bibtex 
-| code ]
+| code(https://github.com/snudatalab/FOCAL) ]
 
 - **Offline and Online Coupled Tensor Factorization with Knowledge Graph**   
 SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang     
