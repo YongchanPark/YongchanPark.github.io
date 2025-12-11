@@ -33,8 +33,7 @@ Seoul National University
 - **Fast and Accurate Online Coupled Matrix-Tensor Factorization via Frequency Regularization**   
 <u>Yong-chan Park</u>, SeungJoo Lee, and U Kang     
 [**KDD 2026**](https://kdd2026.kdd.org/) 
-[ paper
-| bibtex 
+[ [paper](https://yongchanpark.github.io/resources/2026/KDD/FOCAL.pdf) 
 | [code](https://github.com/snudatalab/FOCAL) ]
 
 - **Offline and Online Coupled Tensor Factorization with Knowledge Graph**   
