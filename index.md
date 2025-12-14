@@ -18,9 +18,9 @@ Seoul National University
 | [CV](https://yongchanpark.github.io/resources/cv/CV.pdf) ]
 
 ## Research Interests
-- Machine learning
 - Time series analysis
 - Tensor analysis
+- Anomaly detection
 
 # Awards
 --------------
