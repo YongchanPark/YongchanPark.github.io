@@ -30,17 +30,17 @@ Seoul National University
 
 # Publications
 --------------
-- **Fast and Accurate Temporal Super-Resolution via Residual-Aware Coupled Tensor Factorization**   
-Nam Kyu Kang, <u>Yong-chan Park</u>, and U Kang     
-[**ICASSP 2026**](https://2026.ieeeicassp.org/) 
-[ paper 
-| code ]
-
 - **Fast and Accurate Online Coupled Matrix-Tensor Factorization via Frequency Regularization**   
 <u>Yong-chan Park</u>, SeungJoo Lee, and U Kang     
 [**KDD 2026**](https://kdd2026.kdd.org/) 
 [ [paper](https://yongchanpark.github.io/resources/2026/KDD/FOCAL.pdf) 
 | [code](https://github.com/snudatalab/FOCAL) ]
+
+- **Fast and Accurate Temporal Super-Resolution via Residual-Aware Coupled Tensor Factorization**   
+Nam Kyu Kang, <u>Yong-chan Park</u>, and U Kang     
+[**ICASSP 2026**](https://2026.ieeeicassp.org/) 
+[ paper 
+| code ]
 
 - **Offline and Online Coupled Tensor Factorization with Knowledge Graph**   
 SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang     
