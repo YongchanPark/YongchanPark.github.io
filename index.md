@@ -24,6 +24,7 @@ Seoul National University
 
 # Awards
 --------------
+- **SNU CSE Best Ph.D. Thesis Award**, 2026 
 - **KDD 2025 Student Travel Award**, 2025
 - **SNU BK21 Star Student Researcher Fellowship**, 2023
   
