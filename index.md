@@ -5,7 +5,7 @@
 I am a Ph.D. student majoring in Computer Science Engineering at [Seoul National University](https://www.snu.ac.kr/), 
 advised by [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/). 
 I received B.S. in Mathematical Sciences from [Seoul National University](https://www.snu.ac.kr/).
-My research interests include machine learning and time series analysis. 
+My research interests include time series analysis and tensor analysis. 
 
 ## Contacts
 - **Tel**: +82-2-880-7263
