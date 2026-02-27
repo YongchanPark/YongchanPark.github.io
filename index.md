@@ -118,6 +118,8 @@ Jaemin Yoo, Yejun Soun, <u>Yong-chan Park</u>, and U Kang
 
 # Professional Services 
 -----------------------
+- **KDD 2026** (Reviewer)
+- **ICML 2026** (Reviewer)
 - **AAAI 2026** (Reviewer)
 - **NeurIPS 2025** (Reviewer)
 - **KDD 2025** (Reviewer)
