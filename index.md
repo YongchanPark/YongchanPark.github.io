@@ -31,6 +31,12 @@ Seoul National University
 
 # Publications
 --------------
+- **A Masked Mixture Model for Compact and Accurate Matrix Factorization**   
+<u>Yong-chan Park</u>, SeungJoo Lee, Jeongyoung Lee, and U Kang     
+[**KDD 2026**](https://kdd2026.kdd.org/) 
+[ paper
+| code ]
+
 - **Fast and Accurate Online Coupled Matrix-Tensor Factorization via Frequency Regularization**   
 <u>Yong-chan Park</u>, SeungJoo Lee, and U Kang     
 [**KDD 2026**](https://kdd2026.kdd.org/) 
@@ -40,8 +46,7 @@ Seoul National University
 - **Fast and Accurate Temporal Super-Resolution via Residual-Aware Coupled Tensor Factorization**   
 Nam Kyu Kang, <u>Yong-chan Park</u>, and U Kang     
 [**ICASSP 2026**](https://2026.ieeeicassp.org/) 
-[ paper 
-| code ]
+[ [paper](https://datalab.snu.ac.kr/~ukang/papers/2026ICASSP-ractf.pdf) ]
 
 - **Offline and Online Coupled Tensor Factorization with Knowledge Graph**   
 SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang     
