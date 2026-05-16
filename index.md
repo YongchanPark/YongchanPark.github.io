@@ -43,6 +43,12 @@ Seoul National University
 [ [paper](https://yongchanpark.github.io/resources/2026/KDD/FOCAL.pdf) 
 | [code](https://github.com/snudatalab/FOCAL) ]
 
+- **TiRano: Tensorized Relation-aware Temporal Reasoning for Accurate Knowledge Graph Completion**   
+SeungJoo Lee, <u>Yong-chan Park</u>, and U Kang     
+[**KDD 2026**](https://kdd2026.kdd.org/) 
+[ paper
+| code ]
+
 - **Fast and Accurate Temporal Super-Resolution via Residual-Aware Coupled Tensor Factorization**   
 Nam Kyu Kang, <u>Yong-chan Park</u>, and U Kang     
 [**ICASSP 2026**](https://2026.ieeeicassp.org/) 
