@@ -107,7 +107,7 @@ Jun-Gi Jang, Jeongyoung Lee, <u>Yong-chan Park</u>, and U Kang
 | [code](https://github.com/snudatalab/Dash) ]
 
 - **DAO-CP: Data-Adaptive Online CP Decomposition for Tensor Stream**   
-<u>Yong-chan Park</u>\*, Sangjun Son\*, Minyong Cho, and U Kang (\*equal contribution)  
+Sangjun Son\*, <u>Yong-chan Park</u>\*, Minyong Cho, and U Kang (\*equal contribution)  
 [**PLOS ONE 2022**](https://journals.plos.org/plosone/) 
 [ [paper](https://yongchanpark.github.io/resources/2022/PLOSONE/SPC22.pdf) 
 | [bibtex](https://yongchanpark.github.io/resources/2022/PLOSONE/SPC22.bib) 
