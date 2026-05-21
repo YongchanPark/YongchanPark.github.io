@@ -120,7 +120,7 @@ Jaemin Yoo, Yejun Soun, <u>Yong-chan Park</u>, and U Kang
 | [bibtex](https://yongchanpark.github.io/resources/2021/KDD/YooSPK21.bib) ]
 
 - **Fast and Accurate Partial Fourier Transform for Time Series Data**   
-<u>Yong-chan Park</u>, Jun-Gi Jang, and U Kang   
+<span style="color:red"> Yong-chan Park </span>, Jun-Gi Jang, and U Kang   
 [**KDD 2021**](https://www.kdd.org/kdd2021/) 
 [ [paper](https://yongchanpark.github.io/resources/2021/KDD/ParkJK21.pdf) 
 | [bibtex](https://yongchanpark.github.io/resources/2021/KDD/ParkJK21.bib) 
