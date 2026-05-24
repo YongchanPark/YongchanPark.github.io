@@ -35,7 +35,7 @@ Seoul National University
 <span style="background-color:#f5f0ff">Yong-chan Park</span>, SeungJoo Lee, Jeongyoung Lee, and U Kang     
 [**KDD 2026**](https://kdd2026.kdd.org/) 
 [ paper
-| code ]
+| [code](https://github.com/snudatalab/MMF) ]
 
 - **TiRano: Tensorized Relation-aware Temporal Reasoning for Accurate Knowledge Graph Completion**   
 SeungJoo Lee, <span style="background-color:#f5f0ff">Yong-chan Park</span>, and U Kang     
