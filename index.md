@@ -129,15 +129,8 @@ Jaemin Yoo, Yejun Soun, <span style="background-color:#f5f0ff">Yong-chan Park</s
 
 # Professional Services 
 -----------------------
-- **KDD 2026** (Reviewer)
-- **ICML 2026** (Reviewer)
-- **AAAI 2026** (Reviewer)
-- **NeurIPS 2025** (Reviewer)
-- **KDD 2025** (Reviewer)
-- **KDD 2024** (Reviewer)
-- **KDD 2022** (Reviewer)
-- **NeurIPS 2021** (Reviewer)
-
+- **Reviewer:** KDD, ICML, NeurIPS, AAAI, and others
+- **Workshop Organizing Committees:** Interplay Between Classical Tensor Methods And Foundation Models (KDD 2026)
 
 # Teaching Experiences
 ----------------------
