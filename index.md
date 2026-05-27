@@ -34,14 +34,14 @@ Seoul National University
 - **A Masked Mixture Model for Compact and Accurate Matrix Factorization**   
 <span style="background-color:#f5f0ff">Yong-chan Park</span>, SeungJoo Lee, Jeongyoung Lee, and U Kang     
 [**KDD 2026**](https://kdd2026.kdd.org/) 
-[ paper
+[ [paper](https://yongchanpark.github.io/resources/2026/KDD/MMF.pdf) 
 | [code](https://github.com/snudatalab/MMF) ]
 
 - **TiRano: Tensorized Relation-aware Temporal Reasoning for Accurate Knowledge Graph Completion**   
 SeungJoo Lee, <span style="background-color:#f5f0ff">Yong-chan Park</span>, and U Kang     
 [**KDD 2026**](https://kdd2026.kdd.org/) 
 [ paper
-| code ]
+| [code](https://github.com/snudatalab/TiRano) ]
 
 - **Fast and Accurate Online Coupled Matrix-Tensor Factorization via Frequency Regularization**   
 <span style="background-color:#f5f0ff">Yong-chan Park</span>, SeungJoo Lee, and U Kang     
