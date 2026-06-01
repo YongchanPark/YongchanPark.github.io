@@ -40,7 +40,7 @@ Seoul National University
 - **TiRano: Tensorized Relation-aware Temporal Reasoning for Accurate Knowledge Graph Completion**   
 SeungJoo Lee, <span style="background-color:#f5f0ff">Yong-chan Park</span>, and U Kang     
 [**KDD 2026**](https://kdd2026.kdd.org/) 
-[ paper
+[ [paper](https://datalab.snu.ac.kr/~admin/papers/2026tirano.pdf) 
 | [code](https://github.com/snudatalab/TiRano) ]
 
 - **Fast and Accurate Online Coupled Matrix-Tensor Factorization via Frequency Regularization**   
