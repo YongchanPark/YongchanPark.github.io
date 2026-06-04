@@ -31,6 +31,8 @@ Seoul National University
 
 # Publications
 --------------
+### 2026
+
 - **A Masked Mixture Model for Compact and Accurate Matrix Factorization**   
 <span style="background-color:#f3edff">Yong-chan Park</span>, SeungJoo Lee, Jeongyoung Lee, and U Kang     
 [**KDD 2026**](https://kdd2026.kdd.org/) 
@@ -59,6 +61,8 @@ Nam Kyu Kang, <span style="background-color:#f3edff">Yong-chan Park</span>, and 
 | [bibtex](https://datalab.snu.ac.kr/~admin/papers/2026ractf.bib) 
 ]
 
+### 2025
+
 - **Offline and Online Coupled Tensor Factorization with Knowledge Graph**   
 SeungJoo Lee, <span style="background-color:#f3edff">Yong-chan Park</span>, and U Kang     
 [**PLOS ONE 2025**](https://journals.plos.org/plosone/) 
@@ -80,6 +84,8 @@ SeungJoo Lee, <span style="background-color:#f3edff">Yong-chan Park</span>, and 
 | [bibtex](https://yongchanpark.github.io/resources/2025/KDD/ParkKK25.bib)
 | [code](https://github.com/snudatalab/PuzzleTensor)
 | [PPT](https://yongchanpark.github.io/resources/2025/KDD/PuzzleTensor.pdf) ]
+
+### 2024
 
 - **Accurate Coupled Tensor Factorization with Knowledge Graph**   
 SeungJoo Lee, <span style="background-color:#f3edff">Yong-chan Park</span>, and U Kang   
@@ -109,6 +115,8 @@ Jun-Gi Jang, <span style="background-color:#f3edff">Yong-chan Park</span>, and U
 | [code](https://github.com/snudatalab/Auto-MPFT)
 | [PPT](https://yongchanpark.github.io/resources/2024/KDD/Auto-MPFT.pdf) ]
 
+### 2023
+
 - **Fast and Accurate Dual-Way Streaming PARAFAC2 for Irregular Tensors--Algorithm and Application**   
 Jun-Gi Jang, Jeongyoung Lee, <span style="background-color:#f3edff">Yong-chan Park</span>, and U Kang   
 [**KDD 2023**](https://www.kdd.org/kdd2023/) 
@@ -116,12 +124,16 @@ Jun-Gi Jang, Jeongyoung Lee, <span style="background-color:#f3edff">Yong-chan Pa
 | [bibtex](https://github.com/snudatalab/Dash) 
 | [code](https://github.com/snudatalab/Dash) ]
 
+### 2022
+
 - **DAO-CP: Data-Adaptive Online CP Decomposition for Tensor Stream**   
 Sangjun Son\*, <span style="background-color:#f3edff">Yong-chan Park</span>\*, Minyong Cho, and U Kang (\*equal contribution)  
 [**PLOS ONE 2022**](https://journals.plos.org/plosone/) 
 [ [paper](https://yongchanpark.github.io/resources/2022/PLOSONE/SPC22.pdf) 
 | [bibtex](https://yongchanpark.github.io/resources/2022/PLOSONE/SPC22.bib) 
 | [code](https://github.com/snudatalab/DAO-CP) ]
+
+### 2021
 
 - **Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts**   
 Jaemin Yoo, Yejun Soun, <span style="background-color:#f3edff">Yong-chan Park</span>, and U Kang   
