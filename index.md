@@ -8,7 +8,6 @@ I received my Ph.D. in Computer Science Engineering and my B.S. in Mathematical 
 My research interests include time series analysis and tensor analysis.
 
 ## Contacts
-- **Tel**: +82-2-880-7263
 - **Email**: ycpark6767@gmail.com
 - [Data Mining Lab.](https://datalab.snu.ac.kr/)    
 Computer Science and Engineering     
