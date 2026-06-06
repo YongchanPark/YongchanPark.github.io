@@ -33,7 +33,7 @@ Seoul National University
 ## 2026
 
 - **A Masked Mixture Model for Compact and Accurate Matrix Factorization**   
-<span style="background-color:#f5f0ff">Yong-chan Park</span>, SeungJoo Lee, Jeongyoung Lee, and U Kang     
+<span style="background-color:#f5f0ff">Yong-chan Park</span>, Jeongyoung Lee, SeungJoo Lee, and U Kang     
 [**KDD 2026**](https://kdd2026.kdd.org/) 
 [ [paper](https://yongchanpark.github.io/resources/2026/KDD/MMF.pdf)
 | [bibtex](https://datalab.snu.ac.kr/~admin/papers/2026mmf.bib) 
