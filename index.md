@@ -9,10 +9,11 @@ I received my Ph.D. in Computer Science Engineering and my B.S. in Mathematical 
 ## Contacts
 - **Email**: ycpark6767@gmail.com
 - [Data Mining Lab.](https://datalab.snu.ac.kr/) @ Seoul National University
--  [CV](https://yongchanpark.github.io/resources/cv/CV.pdf) 
-| [Google Scholar](https://scholar.google.com/citations?user=UAaauqQAAAAJ) 
+- [Google Scholar](https://scholar.google.com/citations?user=UAaauqQAAAAJ)
+| [LinkedIn](https://www.linkedin.com/in/yong-chan-park/)
 | [DBLP](https://dblp.org/pid/274/1605.html)
-| [ORCID](https://orcid.org/0009-0005-3489-9717) 
+| [ORCID](https://orcid.org/0009-0005-3489-9717)
+| [CV](https://yongchanpark.github.io/resources/cv/CV.pdf) 
 
 ## Research Interests
 - Tensor analysis
