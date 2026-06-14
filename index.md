@@ -118,7 +118,7 @@ Jun-Gi Jang, Jeongyoung Lee, **<u>Yong-chan Park</u>**, and U Kang
 ## 2022
 
 - **DAO-CP: Data-Adaptive Online CP Decomposition for Tensor Stream**   
-**<u>Yong-chan Park</u>**\*, Sangjun Son\*, Minyong Cho, and U Kang (\*equal contribution)  
+**<u>Yong-chan Park</u>**\*, Sangjun Son\*, Minyong Cho, and U Kang <span style="color:#a0abb0>(\*equal contribution)</span>    
 [**PLOS ONE 2022**](https://journals.plos.org/plosone/) 
 [ [paper](https://yongchanpark.github.io/resources/2022/PLOSONE/SPC22.pdf) 
 | [bibtex](https://yongchanpark.github.io/resources/2022/PLOSONE/SPC22.bib) 
