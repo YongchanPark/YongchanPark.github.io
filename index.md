@@ -5,28 +5,19 @@
 I am a postdoctoral researcher in Computer Science and Engineering at [Seoul National University](https://www.snu.ac.kr/), 
 advised by [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/).
 I received my Ph.D. in Computer Science Engineering and my B.S. in Mathematical Sciences from Seoul National University. 
-My research interests include time series analysis and tensor analysis.
 
 ## Contacts
 - **Email**: ycpark6767@gmail.com
-- [Data Mining Lab.](https://datalab.snu.ac.kr/)    
-Computer Science and Engineering     
-Seoul National University
-- [ [Google Scholar](https://scholar.google.com/citations?user=UAaauqQAAAAJ) 
-| [DBLP](https://dblp.org/pid/274/1605.html) 
-| [CV](https://yongchanpark.github.io/resources/cv/CV.pdf) ]
+- [Data Mining Lab.](https://datalab.snu.ac.kr/) @ Seoul National University
+-  [CV](https://yongchanpark.github.io/resources/cv/CV.pdf) 
+| [Google Scholar](https://scholar.google.com/citations?user=UAaauqQAAAAJ) 
+| [DBLP](https://dblp.org/pid/274/1605.html)
+| [ORCID](https://orcid.org/0009-0005-3489-9717) 
 
 ## Research Interests
-- Time series analysis
 - Tensor analysis
+- Time-series analysis
 - Anomaly detection
-
-# Awards
---------------
-- **SNU CSE Best Ph.D. Thesis Award**, 2026 
-- **KDD 2025 Student Travel Award**, 2025
-- **SNU BK21 Star Student Researcher Fellowship**, 2023
-  
 
 # Publications
 --------------
@@ -147,6 +138,11 @@ Jaemin Yoo, Yejun Soun, <u>Yong-chan Park</u>, and U Kang
 | [bibtex](https://yongchanpark.github.io/resources/2021/KDD/ParkJK21.bib) 
 | [code](https://github.com/snudatalab/PFT) ]
 
+# Awards
+--------------
+- **SNU CSE Best Ph.D. Thesis Award**, 2026 
+- **KDD 2025 Student Travel Award**, 2025
+- **SNU BK21 Star Student Researcher Fellowship**, 2023
 
 # Professional Services 
 -----------------------
