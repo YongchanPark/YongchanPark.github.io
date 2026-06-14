@@ -51,7 +51,68 @@ $hr-border-color: #eff0f1 !default;
 {% endif %}
 
 .main-content {
-  font-size: 1rem;        /* 기본 본문 글자 크기: 1rem = 약 16px */
-  line-height: 1.55;      /* 줄 간격 */
-  max-width: 67rem;       /* 본문 전체 폭: 숫자를 키우면 더 넓어짐 */
+  font-size: 1rem; 
+  line-height: 1.55; 
+  max-width: 67rem;
+}
+
+@media screen and (min-width: 64em) {
+  .main-content {
+    padding: 1.5rem 4rem;
+  }
+
+  .page-header {
+    padding: 3rem 6rem; 
+  }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .main-content {
+    padding: 1.5rem 3rem;
+    font-size: 1rem;
+  }
+
+  .page-header {
+    padding: 2.5rem 4rem;
+  }
+}
+
+@media screen and (max-width: 42em) {
+  .main-content {
+    padding: 1.25rem 1rem;
+    font-size: 0.98rem;
+  }
+
+  .page-header {
+    padding: 1.75rem 1rem;
+  }
+}
+
+.main-content h1 {
+  font-size: 1.65rem;
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
+}
+
+.main-content h2 {
+  font-size: 1.3rem;
+  margin-top: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.main-content p {
+  margin-bottom: 0.8rem;
+}
+
+.main-content ul,
+.main-content ol {
+  margin-bottom: 1rem;
+}
+
+.main-content li {
+  margin-bottom: 0.25rem;
+}
+
+.main-content hr {
+  margin: 0.8rem 0 1.2rem 0;
 }
