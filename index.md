@@ -146,7 +146,7 @@ Jaemin Yoo, Yejun Soun, <u>Yong-chan Park</u>, and U Kang
 
 # Professional Services 
 -----------------------
-- **Reviewer:** KDD, ICML, NeurIPS, AAAI, and others
+- **Reviewer:** KDD, NeurIPS, ICML, AAAI, and others
 - **Workshop Organizing Committees:** Interplay Between Classical Tensor Methods And Foundation Models (KDD 2026)
 
 # Teaching Experiences
