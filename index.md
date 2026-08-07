@@ -153,6 +153,8 @@ Jaemin Yoo, Yejun Soun, <u>Yong-chan Park</u>, and U Kang
 # Teaching Experiences
 ----------------------
 ## Teaching Assistant
+- **Deep Learning** (Apr. 2026 - Jun. 2026) Samsung C&T Corporation
+- **Artificial Intelligence** (Sep. 2024 - Oct. 2024) KT
 - **Machine Learning** (Dec. 2023 - Jan. 2024) LG Electronics
 - **Machine Learning** (Jul. 2023 - Aug. 2023) Hyundai Motor Company 
 - **Advanced Data Science** (Jan. 2023 - Feb. 2023) LG Electronics
