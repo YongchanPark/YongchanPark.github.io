@@ -141,6 +141,7 @@ Jaemin Yoo, Yejun Soun, <u>Yong-chan Park</u>, and U Kang
 
 # Awards
 --------------
+- **SIGKDD Dissertation Award Runner-up**, 2026 
 - **SNU CSE Best Ph.D. Thesis Award**, 2026 
 - **KDD 2025 Student Travel Award**, 2025
 - **SNU BK21 Star Student Researcher Fellowship**, 2023
