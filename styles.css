@@ -93,9 +93,9 @@ button { font: inherit; }
   grid-template-columns: 164px minmax(0, 1fr);
   gap: 40px;
   align-items: start;
-  padding: 31px 0 34px;
+  padding: 21px 0 24px;
   border-top: 0px solid var(--line-strong);
-  border-bottom: 1px solid var(--line);
+  border-bottom: 0px solid var(--line);
 }
 .profile-frame { width: 164px; margin: 0; }
 .profile-photo {
