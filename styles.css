@@ -154,7 +154,7 @@ button { font: inherit; }
 .secondary-links { margin-top: 21px; }
 
 .editorial-list { border-top: 1px solid var(--line); }
-.list-row { display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 20px; padding: 8px 0; border-bottom: 1px solid var(--line); }
+.list-row { display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 14px; padding: 8px 0; border-bottom: 1px solid var(--line); }
 .list-date { color: var(--soft); font-family: var(--serif); font-size: 14px; }
 .list-copy { color: #4a525a; font-size: 14px; line-height: 1.6; }
 .list-copy strong { color: var(--ink); }
