@@ -227,13 +227,13 @@ button { font: inherit; }
 }
 
 @media (max-width: 500px) {
-  .hero h1 { font-size: 46px; }
+  .hero h1 { font-size: 42px; }
   .section-heading-row { display: block; }
   .section-action { display: inline-block; margin: -6px 0 18px; }
   .publication-group { grid-template-columns: 1fr; gap: 10px; }
   .publication-year { font-family: var(--sans); font-size: 18px; font-weight: 800; letter-spacing: .09em; }
   .list-row { grid-template-columns: 1fr; gap: 4px; }
-  .list-date { color: var(--accent); font-family: var(--sans); font-size: 10px; font-weight: 800; }
+  .list-date { color: var(--accent); font-family: var(--sans); font-size: 12px; font-weight: 800; }
   .teaching-row { display: grid; gap: 3px; }
   .teaching-row span { display: block; margin-left: 0; }
 }
