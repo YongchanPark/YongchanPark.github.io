@@ -213,12 +213,12 @@ button { font: inherit; }
   }
   .nav-links.open { display: flex; }
   .nav-links a { padding: 12px 4px; border-bottom: 1px solid var(--line); }
-  .hero { padding: 46px 0 48px; }
+  .hero { padding: 24px 0 24px; }
   .hero-grid { grid-template-columns: 1fr; gap: 25px; padding-top: 0; }
   .profile-frame { width: 142px; }
   .hero-footer { display: grid; gap: 14px; }
   .profile-links { justify-content: flex-start; }
-  .section { padding: 49px 0; }
+  .section { padding: 32px 0; }
   .section-grid { grid-template-columns: 1fr; gap: 13px; }
   .section-label { padding-top: 0; }
   .activity-pair { grid-template-columns: 1fr; gap: 35px; }
