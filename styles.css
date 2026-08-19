@@ -181,7 +181,7 @@ button { font: inherit; }
 .compact-items strong { display: block; padding-right: 48px; color: var(--ink); font-size: 12.5px; }
 .compact-items span { color: var(--soft); font-size: 12px; }
 .dated-items li span { position: absolute; right: 0; top: 15px; }
-.compact-list .list-row { grid-template-columns: 90px minmax(0, 1fr); padding: 14px 0; }
+.compact-list .list-row { grid-template-columns: 90px minmax(0, 1fr); padding: 8px 0; }
 .compact-list .list-date { color: var(--ink); font-family: var(--sans); font-size: 13px; font-weight: 720; }
 .teaching-list { border-top: 1px solid var(--line); }
 .teaching-row { display: flex; justify-content: space-between; gap: 24px; padding: 13px 0; border-bottom: 1px solid var(--line); }
