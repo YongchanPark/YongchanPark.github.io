@@ -49,12 +49,12 @@ button { font: inherit; }
   top: 0;
   z-index: 40;
   background: rgba(246, 246, 243, .92);
-  border-bottom: 1px solid rgba(198, 203, 208, .78);
+  border-bottom: 1px solid rgba(198, 203, 208, .6);
   backdrop-filter: blur(14px);
 }
 .nav-inner { display: flex; min-height: 61px; align-items: center; justify-content: space-between; gap: 24px; }
-.nav-name { font-family: var(--serif); font-size: 16px; font-weight: 600; letter-spacing: -.01em; }
-.nav-links { display: flex; align-items: center; gap: 22px; color: #555d65; font-size: 11px; font-weight: 680; }
+.nav-name { font-family: var(--serif); font-size: 18px; font-weight: 600; letter-spacing: -.01em; }
+.nav-links { display: flex; align-items: center; gap: 22px; color: #555d65; font-size: 12px; font-weight: 680; }
 .nav-links a { padding: 6px 0; border-bottom: 1px solid transparent; }
 .nav-links a:hover { border-bottom-color: var(--accent); }
 .nav-links .nav-cv { color: var(--accent); }
@@ -168,9 +168,9 @@ button { font: inherit; }
 .pub-authors strong { color: #34393f; }
 .pub-authors .note { color: var(--soft); }
 .pub-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 15px; margin-top: 9px; }
-.venue { color: var(--accent); font-size: 12px; font-weight: 800; letter-spacing: .035em; }
+.venue { color: var(--accent); font-size: 13px; font-weight: 800; letter-spacing: .035em; }
 .pub-links { display: flex; flex-wrap: wrap; gap: 9px; }
-.pub-links a { color: #565e66; font-size: 12px; font-weight: 680; border-bottom: 1px solid #bbc1c6; }
+.pub-links a { color: #565e66; font-size: 13px; font-weight: 680; border-bottom: 1px solid #bbc1c6; }
 .pub-links a:hover { color: var(--accent); border-bottom-color: var(--accent); }
 
 .activity-pair { display: grid; grid-template-columns: .85fr 1.15fr; gap: 44px; }
@@ -193,7 +193,7 @@ button { font: inherit; }
 .site-footer { padding: 36px 0 46px; }
 .footer-inner { display: flex; align-items: flex-end; justify-content: space-between; gap: 24px; }
 .footer-name { font-family: var(--serif); font-size: 21px; font-weight: 560; }
-.footer-meta { margin-top: 3px; color: var(--soft); font-size: 10px; }
+.footer-meta { margin-top: 3px; color: var(--soft); font-size: 12px; }
 .footer-links { display: flex; flex-wrap: wrap; gap: 15px; }
 
 @media (max-width: 760px) {
