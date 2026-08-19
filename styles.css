@@ -141,7 +141,7 @@ button { font: inherit; }
 .profile-links a:hover, .secondary-links a:hover, .footer-links a:hover { color: var(--accent); border-bottom-color: var(--accent); }
 
 .main-content { background: var(--paper); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
-.section { padding: 42px 0; border-top: 1px solid var(--line); }
+.section { padding: 36px 0; border-top: 1px solid var(--line); }
 .section:first-child { border-top: 0; }
 .section-grid { display: grid; grid-template-columns: 132px minmax(0, 1fr); gap: 36px; align-items: start; }
 .section-label { padding-top: 6px; color: var(--soft); font-size: 10.5px; font-weight: 800; letter-spacing: .15em; text-transform: uppercase; }
