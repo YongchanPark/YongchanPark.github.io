@@ -155,14 +155,14 @@ button { font: inherit; }
 
 .editorial-list { border-top: 1px solid var(--line); }
 .list-row { display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 24px; padding: 12px 0; border-bottom: 1px solid var(--line); }
-.list-date { color: var(--soft); font-family: var(--serif); font-size: 13px; }
+.list-date { color: var(--soft); font-family: var(--serif); font-size: 14px; }
 .list-copy { color: #4a525a; font-size: 14px; line-height: 1.6; }
 .list-copy strong { color: var(--ink); }
 
 .publication-groups { border-top: 1px solid var(--line-strong); }
 .publication-group { display: grid; grid-template-columns: 76px minmax(0, 1fr); gap: 28px; padding: 27px 0; border-bottom: 1px solid var(--line); }
 .publication-year { margin: 0; color: var(--accent); font-family: var(--serif); font-size: 19px; font-weight: 600; }
-.publication + .publication { margin-top: 22px; padding-top: 22px; border-top: 1px solid #e6e8ea; }
+.publication + .publication { margin-top: 22px; padding-top: 12px; border-top: 1px solid #e6e8ea; }
 .publication h4 { margin: 0; font-size: 15px; font-weight: 735; line-height: 1.5; letter-spacing: -.005em; }
 .pub-authors { margin: 5px 0 0; color: #70777e; font-size: 13px; line-height: 1.58; }
 .pub-authors strong { color: #34393f; }
