@@ -134,7 +134,7 @@ button { font: inherit; }
 .profile-links { justify-content: flex-end; }
 .profile-links a, .secondary-links a, .footer-links a {
   color: #505861;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 680;
   border-bottom: 1px solid #b8bec4;
 }
@@ -144,7 +144,7 @@ button { font: inherit; }
 .section { padding: 42px 0; border-top: 1px solid var(--line); }
 .section:first-child { border-top: 0; }
 .section-grid { display: grid; grid-template-columns: 132px minmax(0, 1fr); gap: 36px; align-items: start; }
-.section-label { padding-top: 6px; color: var(--soft); font-size: 10px; font-weight: 800; letter-spacing: .15em; text-transform: uppercase; }
+.section-label { padding-top: 6px; color: var(--soft); font-size: 11px; font-weight: 800; letter-spacing: .15em; text-transform: uppercase; }
 .section-title { margin: 0 0 18px; font-family: var(--serif); font-size: 30px; font-weight: 560; line-height: 1.2; letter-spacing: -.03em; }
 .section-heading-row { display: flex; align-items: baseline; justify-content: space-between; gap: 24px; }
 .section-action { flex: none; color: var(--accent); font-size: 12px; font-weight: 700; border-bottom: 1px solid #9aabb9; }
@@ -154,7 +154,7 @@ button { font: inherit; }
 .secondary-links { margin-top: 21px; }
 
 .editorial-list { border-top: 1px solid var(--line); }
-.list-row { display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 24px; padding: 18px 0; border-bottom: 1px solid var(--line); }
+.list-row { display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 24px; padding: 12px 0; border-bottom: 1px solid var(--line); }
 .list-date { color: var(--soft); font-family: var(--serif); font-size: 13px; }
 .list-copy { color: #4a525a; font-size: 14px; line-height: 1.6; }
 .list-copy strong { color: var(--ink); }
