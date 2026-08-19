@@ -90,7 +90,7 @@ button { font: inherit; }
 .hero { padding: 54px 0 60px; }
 .hero-grid {
   display: grid;
-  grid-template-columns: 164px minmax(0, 1fr);
+  grid-template-columns: 168px minmax(0, 1fr);
   gap: 40px;
   align-items: start;
   padding: 0px 0 0px;
