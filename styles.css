@@ -54,7 +54,7 @@ button { font: inherit; }
 }
 .nav-inner { display: flex; min-height: 61px; align-items: center; justify-content: space-between; gap: 24px; }
 .nav-name { font-family: var(--serif); font-size: 18px; font-weight: 600; letter-spacing: -.01em; }
-.nav-links { display: flex; align-items: center; gap: 22px; color: #555d65; font-size: 12px; font-weight: 680; }
+.nav-links { display: flex; align-items: center; gap: 22px; color: #555d65; font-size: 13px; font-weight: 680; }
 .nav-links a { padding: 6px 0; border-bottom: 1px solid transparent; }
 .nav-links a:hover { border-bottom-color: var(--accent); }
 .nav-links .nav-cv { color: var(--accent); }
