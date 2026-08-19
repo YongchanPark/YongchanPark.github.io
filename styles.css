@@ -111,7 +111,7 @@ button { font: inherit; }
 .kicker {
   margin: 0 0 11px;
   color: var(--accent);
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 800;
   letter-spacing: .115em;
   text-transform: uppercase;
@@ -129,7 +129,7 @@ button { font: inherit; }
 .intro a { border-bottom: 1px solid #afb8bf; }
 .hero-footer { display: flex; align-items: flex-end; justify-content: space-between; gap: 28px; margin-top: 25px; }
 .interests { margin: 0; color: #4b535b; font-size: 12px; line-height: 1.55; }
-.interests strong { display: block; margin-bottom: 3px; color: var(--soft); font-size: 11px; letter-spacing: .12em; text-transform: uppercase; }
+.interests strong { display: block; margin-bottom: 3px; color: var(--soft); font-size: 10px; letter-spacing: .12em; text-transform: uppercase; }
 .profile-links, .secondary-links { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; }
 .profile-links { justify-content: flex-end; }
 .profile-links a, .secondary-links a, .footer-links a {
