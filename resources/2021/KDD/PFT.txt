@@ -1,0 +1,8 @@
+@inproceedings{ParkJK21,
+  author    = {Yong-chan Park and
+               Jun-Gi Jang and
+               U Kang},
+  title     = {Fast and Accurate Partial Fourier Transform for Time Series Data},
+  booktitle = {ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)},
+  year      = {2021}
+}
